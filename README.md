@@ -123,18 +123,7 @@ As of January 1st, 2024, Replit is [no longer free](https://blog.replit.com/host
 3. Go to the ports tab, Click Forward A Port, And type the port number.
 4. Right-click Visibility and set Port Visibility to Public.
 
-> [!NOTE]
-> We are committed to making Interstellar easy and personalized however, as of now we need your support in making it ad-free. Consider keeping ads so Interstellar can run freely or contribute by being a supporter.
-
 ## Report Issues
 
-If you encounter problems, open an issue on GitHub, and we'll address it promptly.
+If you encounter problems, open an issue on GitHub, and I'll address it promptly.
 
-> [!TIP]
-> If you're having trouble, don't hesitate to reach out to us on [Discord](https://discord.gg/interstellar) for personalized support.
-
-# Credits
-
-A huge thanks goes out to all of the people who have contributed to Interstellar.
-
-[![Contributors](https://contrib.rocks/image?repo=UseInterstellar/Interstellar)](https://github.com/UseInterstellar/Interstellar/graphs/contributors)
